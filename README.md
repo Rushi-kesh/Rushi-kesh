@@ -1,7 +1,7 @@
 ### Hi there, I'm Rushikesh Gaikwad [website] 👋
 
 ## I'm a Devloper, Developer, and Developer!
-- 🔭 I’m currently working at 247 Software as Full Stack Developer[website]!
+- 🔭 I’m currently working at 247 Software as Full Stack Developer
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to click photos
