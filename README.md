@@ -33,6 +33,7 @@
 <br />
 
 <img align="left" alt="Rushi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rushi-kesh&show_icons=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushi-kesh&layout=compact&show_icons=true&hide_border=true" />
 
 [website]: https://rushikeshgaikwad.in
 [twitter]: https://twitter.com/Rushikesh_2105
