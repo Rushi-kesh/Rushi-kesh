@@ -33,8 +33,11 @@
 <br />
 <br />
 
-<img align="left" alt="Rushi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rushi-kesh&show_icons=true&hide_border=true?theme=dark" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushi-kesh&layout=compact&show_icons=true&hide_border=true?theme=dark" />
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rushi-kesh&show_icons=true&theme=gotham" alt="Rushikesh Gaikwad | Stats" />
+
+</details>
 
 [website]: https://rushikeshgaikwad.in
 [twitter]: https://twitter.com/Rushikesh_2105
