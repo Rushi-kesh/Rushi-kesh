@@ -1,4 +1,4 @@
-### Hi there, I'm Rushikesh Gaikwad [website] 👋
+### Hi there, I'm [Rushikesh Gaikwad] [website] 👋
 
 ## I'm a Devloper, Developer, and Developer!
 - 🔭 I’m currently working at 247 Software as Full Stack Developer
@@ -44,4 +44,5 @@
 [youtube]: https://www.youtube.com/channel/UCnkjvZtvrVKY1XeP2m6Q3nw
 [instagram]: https://www.instagram.com/rishi_1807/
 [linkedin]: https://www.linkedin.com/in/rushikesh-gaikwad-205807112/
+[Rushikesh Gaikwad]: https://rushikeshgaikwad.in
 
