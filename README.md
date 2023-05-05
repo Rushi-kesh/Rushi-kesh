@@ -37,9 +37,9 @@
 <summary>📊 Github Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rushi-kesh&show_icons=true&theme=gotham" alt="Rushikesh Gaikwad | Stats" />
-<div>
+<hr>
 [GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rushi-kesh)
-</div>
+</hr>
 </details>
 
 [website]: https://rushikeshgaikwad.in
