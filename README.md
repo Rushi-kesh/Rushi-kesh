@@ -38,7 +38,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rushi-kesh&show_icons=true&theme=gotham" alt="Rushikesh Gaikwad | Stats" />
 <hr>
-<p align="center"> <img src="[https://github-readme-stats.vercel.app/api?username=Rushi-kesh&show_icons=true&theme=gotham](https://github-readme-streak-stats.herokuapp.com/?user=Rushi-kesh)" alt="Rushikesh Gaikwad | GitHub streak stats" />
+<p align="center"> <img src="[https://github-readme-streak-stats.herokuapp.com/?user=Rushi-kesh]" alt="Rushikesh Gaikwad | GitHub streak stats" />
 </hr>
 </details>
 
