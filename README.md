@@ -1,5 +1,5 @@
 ### Hi there, I'm [Rushikesh Gaikwad] [website] 👋
-<p align="center"><img src="https://profile-counter.glitch.me/keshavrkaranth/count.svg" alt="vistor count" height="50" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/Rushi-kesh/count.svg" alt="vistor count" height="50" /></p>
 ## I'm a Devloper, Developer, and Developer!
 - 🔭 I’m currently working at Foundation Ai as Senior Software Engineer
 - 🌱 I’m currently learning everything 🤣
