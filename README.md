@@ -42,7 +42,7 @@
 </hr>
 </details>
 
-[website]: https://rushikeshgaikwad.in
+[website]: https://
 [twitter]: https://twitter.com/Rushikesh_2105
 [youtube]: https://www.youtube.com/channel/UCnkjvZtvrVKY1XeP2m6Q3nw
 [instagram]: https://www.instagram.com/rishi_1807/
