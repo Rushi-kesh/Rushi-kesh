@@ -45,7 +45,6 @@
 [website]: https://
 [twitter]: https://twitter.com/Rushikesh_2105
 [youtube]: https://www.youtube.com/channel/UCnkjvZtvrVKY1XeP2m6Q3nw
-[instagram]: https://www.instagram.com/rishi_1807/
+[instagram]: https://www.instagram.com/rushi_1807_/
 [linkedin]: https://www.linkedin.com/in/rushikesh-gaikwad-205807112/
-[Rushikesh Gaikwad]: https://rushikeshgaikwad.in
-
+[Rushikesh Gaikwad]: https://www.linkedin.com/in/rushikesh-gaikwad-205807112/
